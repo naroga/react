@@ -14,7 +14,7 @@
         "react/dns": "0.4.*",
         "react/event-loop": "0.4.*",
         "react/http-client": "0.4.*",
-        "react/http": "0.4.*",
+        "naroga/http": "0.4.*",
         "react/promise": "~2.1",
         "react/socket-client": "0.4.*",
         "react/socket": "0.4.*",
